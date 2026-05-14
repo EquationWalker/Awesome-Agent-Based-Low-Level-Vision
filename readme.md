@@ -39,8 +39,11 @@ Image restoration and super-resolution have witnessed significant advancements w
 ### Image Editing
 |Year<div style="width:20px">|Pub<div style="width:60px">|Title<div style="width:550px">|Links<div style="width:100px">|Main Institution<div style="width:100px">|
 |:---:|:----:|:----:|:----:|:----:|
+|2025|NeurIPS|**CREA**:A Collaborative Multi-Agent Framework for Creative Image Editing and Generation|\[[paper](https://arxiv.org/pdf/2504.05306)\]\[[project page](https://crea-diffusion.github.io/)\]|Virginia Tech|
 |2026|ArXiv|**Agent Banana**: High-Fidelity Image Editing with Agentic Thinking and Tooling|\[[paper](https://arxiv.org/pdf/2602.09084)\]\[[project page](https://agent-banana.github.io/)\]\[[code](https://github.com/taco-group/agent-banana)\]|TAMU|
 |2026|ArXiv|**PhotoAgent**: Agentic Photo Editing with Exploratory Visual Aesthetic Planning|\[[paper](https://arxiv.org/abs/2602.22809)\]\[[project page](https://mdyao.github.io/PhotoAgent/)\]\[[code](https://github.com/mdyao/PhotoAgent)\]|MMLab, CUHK|
+|2026|ArXiv|**ImageEdit-R1**: Boosting Multi-Agent Image Editing via Reinforcement Learning|\[[paper](https://arxiv.org/abs/2603.08059v1)\]\[[code](https://github.com/zhaoyiran924/ImageEdit-R1)\]|NTU, Adobe|
+|2026|ArXiv|**EditRefiner**: A Human-Aligned Agentic Framework for Image Editing Refinement|\[[paper](https://arxiv.org/abs/2605.07457v1)\]\[[code](https://github.com/IntMeGroup/EditRefiner)\]|SJU, Vivo|
 
 
 ### Image Super-Resolution
