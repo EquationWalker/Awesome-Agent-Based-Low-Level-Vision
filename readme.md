@@ -60,7 +60,7 @@ Image restoration and super-resolution have witnessed significant advancements w
 ### Computational Photography
 |Year<div style="width:20px">|Pub<div style="width:60px">|Title<div style="width:550px">|Links<div style="width:100px">|Main Institution<div style="width:100px">|
 |:---:|:----:|:----:|:----:|:----:|
-|2026|ArXiv|**PhotoAgent**: A Robotic Photographer with Spatial and Aesthetic Understanding|\[[paper](https://arxiv.org/abs/2603.22796)\]|Tsinghua|
+|2026|ArXiv|**PhotoAgent**: A Robotic Photographer with Spatial and Aesthetic Understanding|\[[paper](https://arxiv.org/abs/2603.22796)\]|THU|
 
 ### Image Retouching
 |Year<div style="width:20px">|Pub<div style="width:60px">|Title<div style="width:550px">|Links<div style="width:100px">|Main Institution<div style="width:100px">|
