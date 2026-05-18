@@ -9,15 +9,18 @@ A curated list of awesome papers, codes, and resources exploring the intersectio
 *This repository is maintained by [Lixin Wang]( 2059559391@qq.com) and [Jie Liu]( https://njulj.github.io/), feel free to contact us if you have any questions.*
 
 ## 📑 Table of Contents
-- [Introduction](##introduction)
-- [Paper List](##paper-list)
+- [Awesome Agent for Low-level Vision](#awesome-agent-for-low-level-vision)
+  - [📑 Table of Contents](#-table-of-contents)
+  - [💡 Introduction](#-introduction)
+  - [📝 Paper List](#-paper-list)
     - [Image Restoration](#image-restoration)
     - [Image Editing](#image-editing)
     - [Image Super-Resolution](#image-super-resolution)
     - [Video Restoration](#video-restoration)
+    - [Computational Photography](#computational-photography)
     - [Image Retouching](#image-retouching)
-- [Contributing](##contributing)
-- [License](##license)
+  - [🤝 Contributing](#-contributing)
+  - [📄 License](#-license)
 
 ## 💡 Introduction
 Image restoration and super-resolution have witnessed significant advancements with the introduction of generative models. Recently, the integration of **Autonomous Agents** and **Multi-Agent Systems (MAS)** has opened new paradigms for solving complex, real-world image degradation problems by leveraging planning, tool use, and interactive collaboration. This repository tracks the latest progress in this emerging field.
@@ -56,6 +59,11 @@ Image restoration and super-resolution have witnessed significant advancements w
 |Year<div style="width:20px">|Pub<div style="width:60px">|Title<div style="width:550px">|Links<div style="width:100px">|Main Institution<div style="width:100px">|
 |:---:|:----:|:----:|:----:|:----:|
 |2026|ArXiv|**VQ-Jarvis**: Retrieval-Augmented Video Restoration Agent with Sharp Vision and Fast Thought|\[[paper](https://arxiv.org/pdf/2603.22998)\]|PKU|
+
+### Computational Photography
+|Year<div style="width:20px">|Pub<div style="width:60px">|Title<div style="width:550px">|Links<div style="width:100px">|Main Institution<div style="width:100px">|
+|:---:|:----:|:----:|:----:|:----:|
+|2026|ArXiv|**PhotoAgent**: A Robotic Photographer with Spatial and Aesthetic Understanding|\[[paper](https://arxiv.org/abs/2603.22796)\]|THU|
 
 ### Image Retouching
 |Year<div style="width:20px">|Pub<div style="width:60px">|Title<div style="width:550px">|Links<div style="width:100px">|Main Institution<div style="width:100px">|
