@@ -70,6 +70,15 @@ Image restoration and super-resolution have witnessed significant advancements w
 |:---:|:----:|:----:|:----:|:----:|
 |2026|AAAI|**PerTouch**: VLM-Driven Agent for Personalized and Semantic Image Retouching|\[[paper](https://arxiv.org/pdf/2511.12998)\]\[[project page](https://auroral703.github.io/PerTouch/)\]\[[code](https://github.com/Auroral703/PerTouch)\]|NKU|
 
+### Image Quality Assessment (IQA)
+|Year<div style="width:20px">|Pub<div style="width:60px">|Title<div style="width:550px">|Links<div style="width:100px">|Main Institution<div style="width:100px">|
+|:---:|:----:|:----:|:----:|:----:|
+|2026|ArXiv|**ME-IQA**: Memory-Enhanced Image Quality Assessment via Re-Ranking|\[[paper](https://arxiv.org/abs/2603.20785)\]|CityU|
+|2026|ArXiv|**Q-Probe**: Scaling Image Quality Assessment to High Resolution via Context-Aware Agentic Probing|\[[paper](https://arxiv.org/abs/2601.15356)\]|USTC|
+|2025|ArXiv|**AgenticIQA**: An Agentic Framework for Adaptive and Interpretable Image Quality Assessment|\[[paper](https://arxiv.org/abs/2509.26006)\]|NTU|
+|2025|ACL|**CIGEval**: A Unified Agentic Framework for Evaluating Conditional Image Generation|\[[paper](https://arxiv.org/abs/2504.07046)\]\[[code](https://github.com/HITsz-TMG/Agentic-CIGEval)\]|HITsz|
+|2025|ACL|**Evaluation Agent**: Efficient and Promptable Evaluation Framework for Visual Generative Models|\[[paper](https://arxiv.org/abs/2412.09645)\]\[[code](https://github.com/Vchitect/Evaluation-Agent)\]|Shanghai AI Lab|
+
 ## 🤝 Contributing
 Welcome to contribute! If you find any awesome papers or projects that are not on the list, please feel free to open a Pull Request or Issue. 
 1. Follow the exact format of the existing table entries.
